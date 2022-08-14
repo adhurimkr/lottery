@@ -1,0 +1,20 @@
+header{
+    border-bottom: 1px solid black;
+    margin-bottom: 1rem;
+}
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    font-size: 2rem;
+}
+
+ul a{
+    text-decoration: none;
+    color: lightskyblue;
+}
+
+.active{
+    text-decoration: underline;
+}

@@ -1,0 +1,26 @@
+.user-card{
+    /* margin-top: 1rem;
+    width: 200px; */
+    border: 1px solid lightskyblue;
+
+}
+
+.winner{
+    border: 2px solid green !important;
+}
+
+.user-card img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.user-card-info{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.user-card-info p {
+    font-size: 1.5rem;
+    margin: 0.2rem;
+}

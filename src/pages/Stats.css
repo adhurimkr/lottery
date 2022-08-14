@@ -1,0 +1,17 @@
+table{
+    border-collapse: collapse;
+    font-size: 1.5rem;
+    border: 1px solid black;
+    width: 500px;
+}
+
+td,th{
+    width: 250px;
+    border: 1px solid black;
+}
+.stats-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
